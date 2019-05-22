@@ -1,5 +1,5 @@
 <?php
-	require_once("configuracion.php");
+	//require_once("configuracion.php");
 
 	$ipss = $_SERVER["REMOTE_ADDR"];
 
