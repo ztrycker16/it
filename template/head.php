@@ -2,13 +2,6 @@
 	//require_once("configuracion.php");
 
 	$ipss = $_SERVER["REMOTE_ADDR"];
-
-	if ($ipss == '10.3.74.6') {
-	  $ips = 'Administrador';
-	}else{
-	  $ips = 'Invitado';
-	}
-
 	require_once("nomPag.php");
 ?>
 <!DOCTYPE html>
