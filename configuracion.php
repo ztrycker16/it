@@ -5,7 +5,7 @@ class Siscco{};
  
       $itiz= new Siscco();
   
-      	$itiz->rootruta 		= "http://10.3.74.6/itiz";
+      	$itiz->rootruta 		= "https://github.com/ztrycker16/itiz/blob/master";
                 
                 $itiz->assets 		=$itiz->rootruta."/assets";
                     	$itiz->css 		= $itiz->assets."/css";
